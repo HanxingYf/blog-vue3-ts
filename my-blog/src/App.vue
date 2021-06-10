@@ -55,6 +55,7 @@ import Mine from "./components/Mine.vue"
       isShowHeader
     }
   }
+  // 更新一下
 })
 
 
